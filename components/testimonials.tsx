@@ -35,6 +35,36 @@ const testimonials = [
     content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
     rating: 5,
   },
+  {
+    title: "test1",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
+  {
+    title: "test2",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
+  {
+    title: "test3",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
+  {
+    title: "test4",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
+  {
+    title: "test5",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
+  {
+    title: "test6",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
 ]
 
 export default function Testimonials() {
@@ -155,8 +185,8 @@ export default function Testimonials() {
 
                 {/* Author with Verified Badge */}
                 <div className="flex items-center gap-3 mt-auto pt-4 border-t border-border">
-                  <div className="w-10 h-10 rounded-full bg-[#7a9898] flex items-center justify-center text-white font-bold shrink-0">
-                    {testimonials[currentIndex].title.charAt(0)}
+                  <div className="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white font-bold shrink-0">
+                    {testimonials[currentIndex].title.slice(0, 2)}
                   </div>
                   <div>
                     <p className="font-semibold text-foreground text-sm">{testimonials[currentIndex].title}</p>
@@ -226,7 +256,7 @@ export default function Testimonials() {
                   {/* Author with Verified Badge */}
                   <div className="flex items-center gap-3 mt-auto pt-4 border-t border-border">
                     <div className="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white font-bold shrink-0">
-                      {testimonial.title.charAt(0)}
+                      {testimonial.title.slice(0, 2)}
                     </div>
                     <div>
                       <p className="font-semibold text-foreground text-sm">{testimonial.title}</p>
