@@ -65,6 +65,11 @@ const testimonials = [
     content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
     rating: 5,
   },
+  {
+    title: "test10",
+    content: "خدمة مميزة جدًا، التحليلات اليومية تمنحني وضوحًا كبيرًا قبل دخول السوق",
+    rating: 5,
+  },
 ]
 
 export default function Testimonials() {
