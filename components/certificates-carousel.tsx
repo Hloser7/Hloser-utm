@@ -7,7 +7,7 @@ const certificates = [
   {
     id: 1,
     image:
-      "https://res.cloudinary.com/da63nggkh/image/upload/v1764179206/WhatsApp_Image_2025-11-26_at_4.00.12_AM_ku5vhz.jpg",
+      "https://res.cloudinary.com/dhg0buntz/image/upload/v1765854504/copy_of_38_tv5m3n_121d60.jpg",
     alt: "Student Certificate 1",
   },
   {
