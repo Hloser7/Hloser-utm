@@ -7,31 +7,35 @@ export default function DisclaimerRefund() {
   const disclaimerItems = [
     {
       title: "Risk of Loss",
-      content: "Trading stocks, options, futures, forex, or crypto carries substantial risk and may result in partial or total loss of your investment. You should only trade with money you can afford to lose. All trading decisions are your responsibility, and past performance is not indicative of future results.",
+      content: "Trading stocks, futures, forex, or cryptocurrencies involves significant risk and may result in partial or total loss of capital. Only trade with money you can afford to lose.",
     },
     {
       title: "Educational Purposes Only",
-      content: "Content shared within U.T.M, including discussions, analyses, and livestreams, is for educational purposes only and does not constitute financial, investment, or trading advice. Conduct your own research before making decisions.",
+      content: "All content provided within U.T.M is for educational and informational purposes only and does not constitute financial, investment, or trading advice.",
     },
     {
       title: "No Guarantees",
-      content: "U.T.M does not guarantee accuracy, completeness, or any specific trading outcomes. All trading decisions are made at your own risk, and U.T.M, its owners, moderators, and members are not liable for any losses.",
+      content: "U.T.M does not guarantee accuracy, profitability, or specific trading results. Past performance is not indicative of future outcomes.",
     },
     {
       title: "Independent Evaluation",
-      content: "You are responsible for evaluating the suitability of any strategies or recommendations based on your individual circumstances.",
+      content: "All trading decisions are made independently by you. You are solely responsible for evaluating any information shared.",
+    },
+    {
+      title: "No Fund Management",
+      content: "U.T.M does not manage user funds, execute trades on behalf of users, or provide personalized investment advice.",
     },
     {
       title: "Testimonials",
-      content: "User experiences shared in U.T.M or on associated channels are individual and may not reflect typical results. They are not guarantees of future performance.",
+      content: "Any testimonials or shared results reflect individual experiences and do not represent typical or guaranteed outcomes.",
     },
     {
       title: "Not an Endorsement",
-      content: "Mentions of financial products, services, or platforms do not constitute endorsements. Perform your own due diligence before using any mentioned services.",
+      content: "Mentions of brokers, platforms, or financial tools do not constitute endorsements. Always perform your own due diligence.",
     },
     {
       title: "Accepted Risk",
-      content: "By participating in U.T.M, you accept that trading involves inherent risks, and U.T.M is not responsible for any trading outcomes, losses, or damages.",
+      content: "By using U.T.M, you accept all risks associated with trading and agree that U.T.M is not liable for any losses or damages.",
     },
   ]
 
