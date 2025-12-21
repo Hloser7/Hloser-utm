@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
       title: "Information We Collect",
       content: `When you join U.T.M, we may collect personal information such as your name, email address, username, and any other information you voluntarily provide.
 
-We may also automatically collect certain data related to your use of the platform, including account details, payment information, device information, and operating system.
+We may also automatically collect limited technical data related to your use of the platform, such as device type, browser type, and operating system, for analytics and security purposes.
 
 Additionally, we may collect information when you communicate with us through emails, messages, or any other forms of interaction.`,
     },
