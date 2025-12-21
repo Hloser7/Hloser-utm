@@ -67,7 +67,7 @@ export default function DisclaimerRefund() {
             <div>
               <h2 className="font-semibold text-2xl mb-4 text-gray-900">Disclaimer</h2>
               <p className="mb-6">
-                University of Trading MA (U.T.M) is a community for traders to share knowledge, insights, and experiences related to financial markets. By participating in U.T.M, you acknowledge and agree to the following:
+                University of Trading MA (U.T.M) is an educational community focused on sharing trading knowledge, insights, and experiences. By participating in U.T.M, you acknowledge and agree to the following:
               </p>
               <div className="space-y-4">
                 {disclaimerItems.map((item) => (
