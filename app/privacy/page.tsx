@@ -49,11 +49,9 @@ Payment processing is subject to Whop’s own Privacy Policy and Terms of Servic
     },
     {
       title: "Data Security",
-      content: `We take the security of your personal information seriously and implement reasonable measures to protect it from unauthorized access, disclosure, alteration, or destruction.
+`We implement reasonable administrative and technical measures to protect your information from unauthorized access, loss, or misuse.
 
-These measures may include encryption, firewalls, access controls, and periodic security assessments.
-
-However, please be aware that no method of data transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute protection. While we strive to safeguard your information, any transmission of data to us is done at your own risk.`,
+However, no online platform can guarantee absolute security. By using U.T.M, you acknowledge that data transmission occurs at your own risk.`,
     },
     {
       title: "Children's Privacy",
