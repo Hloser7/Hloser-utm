@@ -11,7 +11,14 @@ export default function PrivacyPolicy() {
 
 We may also automatically collect limited technical data related to your use of the platform, such as device type, browser type, and operating system, for analytics and security purposes.
 
-Additionally, we may collect information when you communicate with us through emails, messages, or any other forms of interaction.`,
+Additionally, we may collect information when you communicate with us through emails, messages, or any other forms of interaction.
+
+      title: "Payment Information",
+
+All payments are securely processed by Whop, a third-party payment platform.
+U.T.M does not store, process, or have access to users’ full credit or debit card details.
+
+Payment processing is subject to Whop’s own Privacy Policy and Terms of Service.`,
     },
     {
       title: "How We Use Your Information",
