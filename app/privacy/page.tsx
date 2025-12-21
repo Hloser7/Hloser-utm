@@ -55,15 +55,21 @@ However, no online platform can guarantee absolute security. By using U.T.M, you
     },
     {
       title: "Children's Privacy",
-      content: `U.T.M is not intended for individuals under the age of 18, and we do not knowingly collect personal information from minors.
+      content: `U.T.M is not intended for individuals under the age of 18.
 
-If you are under 18, please do not provide any personal information on the platform.`,
+We do not knowingly collect personal information from minors.`,
+    },
+    {
+      title: "Regulation & Jurisdiction",
+      content: `U.T.M is not a licensed financial advisory firm and does not provide regulated financial services in Morocco or any other jurisdiction.
+      
+Users are solely responsible for ensuring that their participation in U.T.M complies with local laws and regulations applicable to them.`,
     },
     {
       title: "Changes to This Privacy Policy",
-      content: `We may update or modify this Privacy Policy from time to time, and any changes will be posted on this page.
-
-By continuing to use U.T.M after such changes are applied, you acknowledge and accept the updated Privacy Policy.`,
+      content: `We may update this Privacy Policy from time to time.
+      
+Any changes will be posted on this page, and continued use of U.T.M constitutes acceptance of the updated policy.`,
     },
   ]
 
