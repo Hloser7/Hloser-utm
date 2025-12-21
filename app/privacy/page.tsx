@@ -13,7 +13,7 @@ We may also automatically collect limited technical data related to your use of 
 
 Additionally, we may collect information when you communicate with us through emails, messages, or any other forms of interaction.
 
-      title: "Payment Information",
+-Payment Information:
 
 All payments are securely processed by Whop, a third-party payment platform.
 U.T.M does not store, process, or have access to users’ full credit or debit card details.
