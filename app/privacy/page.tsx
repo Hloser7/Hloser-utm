@@ -49,6 +49,7 @@ Payment processing is subject to Whop’s own Privacy Policy and Terms of Servic
     },
     {
       title: "Data Security",
+      
 `We implement reasonable administrative and technical measures to protect your information from unauthorized access, loss, or misuse.
 
 However, no online platform can guarantee absolute security. By using U.T.M, you acknowledge that data transmission occurs at your own risk.`,
