@@ -25,11 +25,11 @@ Payment processing is subject to Whop’s own Privacy Policy and Terms of Servic
       content: `We may use the information we collect for various purposes, including but not limited to:
 
 • Operating and maintaining U.T.M and its features.
-• Communicating with you regarding your account or membership.
-• Personalizing your user experience.
-• Improving the content, structure, and offerings available within U.T.M.
-• Analyzing trends, managing the platform, and gathering demographic insights.
-• Complying with legal requirements and protecting our rights.`,
+• Managing memberships and user access.
+• Communicating with you regarding your account or subscription.
+• Improving educational content and user experience.
+• Monitoring platform usage and preventing misuse.
+• Complying with applicable legal obligations and protecting our rights.`,
     },
     {
       title: "How We Share Your Information",
