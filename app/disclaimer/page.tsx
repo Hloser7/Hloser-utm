@@ -42,19 +42,19 @@ export default function DisclaimerRefund() {
   const refundItems = [
     {
       title: "All Sales Are Final",
-      content: "Due to the digital nature of our services and instant access to premium content, all payments are non-refundable.",
+      content: "Due to the digital nature of our services and immediate access to content, all payments are non-refundable.",
     },
     {
       title: "Recurring Payments",
-      content: "Subscriptions are billed automatically each month. They will renew unless canceled at least 3 days before the next billing date.",
+      content: "Subscriptions renew automatically unless canceled at least 3 days before the next billing date.",
     },
     {
-      title: "Cancellation Policy",
-      content: "To avoid being charged for the next month, cancel your subscription at least 3 days before renewal. Late cancellations do not prevent the next payment.",
+      title: "Cancellation Responsibility",
+      content: "Late cancellations do not prevent the next charge",
     },
     {
       title: "No Refund After Renewal",
-      content: "Once a renewal payment is processed, it cannot be refunded under any circumstances, even if the service was unused.",
+      content: "Once a renewal payment is processed, no refunds will be issued under any circumstances.",
     },
   ]
 
@@ -91,7 +91,7 @@ export default function DisclaimerRefund() {
                   </div>
                 ))}
               </div>
-              <p className="mt-6 font-medium">By continuing your subscription, you fully accept and agree to these terms.</p>
+              <p className="mt-6 font-medium">By subscribing, you confirm that you have read, understood, and agreed to this Refund Policy.</p>
             </div>
 
             <div className="pt-6 border-t border-gray-200">
