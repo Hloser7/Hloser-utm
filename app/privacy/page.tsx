@@ -32,12 +32,12 @@ Payment processing is subject to Whop’s own Privacy Policy and Terms of Servic
 • Complying with applicable legal obligations and protecting our rights.`,
     },
     {
-      title: "How We Share Your Information",
-      content: `We may share your personal information with third parties under specific circumstances, such as:
+      title: "How We Share Your Information (We do not sell or rent your personal information)",
+      content: `We may share limited information only under the following circumstances:
 
-• Service providers who assist in operating U.T.M and delivering our services.
-• With your consent or at your direction, for example when you choose to share information publicly within the community.
-• To comply with legal obligations or to enforce our policies.`,
+• With service providers (such as Whop) strictly for operational purposes.
+• With your consent or when you voluntarily share information within the community.
+• When required by law or to enforce our policies and protect our rights.`,
     },
     {
       title: "Your Choices",
