@@ -76,7 +76,7 @@ const plans = [
       "A simple start before upgrading",
     ],
     cta: "Join Free Telegram",
-    link: "https://t.me/+x7DoEIeaBEw1NzVk",
+    link: "https://discord.gg/heNU5w8DCb",
     popular: false,
   },
 ]
