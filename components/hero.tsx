@@ -221,7 +221,7 @@ export default function Hero({ isLoaded = true }) {
                     ease: "easeInOut",
                   }}
                 />
-                Join 2,000+ Elite Traders
+                Join 2,500+ Elite Traders
               </span>
             </div>
           </motion.div>
@@ -287,7 +287,7 @@ export default function Hero({ isLoaded = true }) {
               </div>
 
               <div className="text-left">
-                <p className="text-xs font-semibold text-black">72 Reviews</p>
+                <p className="text-xs font-semibold text-black">84 Reviews</p>
                 <p className="text-sm font-bold text-[#7a9898] flex items-center gap-1">
                   {"★★★★★".split("").map((star, i) => (
                     <motion.span
